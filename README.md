@@ -69,6 +69,3 @@ src/
 
 **组件通信：** 父子组件通过 `props` / `emit` 单向数据流通信，状态集中在 App.vue 管理。
 
-## License
-
-MIT
